@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Kenny 👋
+
+I love learning and experimenting with technology across the entire stack (from
+making schematics and laying out PCBs to writing firmware to writing software
+GUIs).
+
+My other interests riding my bicycle or my motorcycle, playing video games, and
+hanging out with my cat!
 
 <!--
 **hkennyv/hkennyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
