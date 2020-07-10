@@ -1,8 +1,7 @@
 # Hi, I'm Kenny 👋
 
 I love learning and experimenting with technology across the entire stack (from
-making schematics and laying out PCBs to writing firmware to writing software
-GUIs).
+making schematics and laying out PCBs to writing firmware or software).
 
 My other interests riding my bicycle or my motorcycle, playing video games, and
 hanging out with my cat!
