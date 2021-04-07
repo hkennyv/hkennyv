@@ -1,0 +1,133 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					position: absolute;
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					margin: auto;
+					width: 400px;
+					height: 400px;
+				}
+
+				.cat {
+					position: relative;
+					top: 50px;
+					left: -50px;
+				}
+
+				.head {
+					background-color: #33292b;
+					width: 150px;
+					height: 100px;
+					border-radius: 30px;
+				}
+
+				.ear-l, .ear-r {
+					position: relative;
+					width: 0;
+					height: 0;
+					border-bottom: 50px solid #33292b;
+					border-left: 20px solid transparent;
+					border-right: 20px solid transparent;
+					z-index: -1;
+				}
+
+				.ear-l {
+					bottom: 30px;
+					transform: rotate(-40deg);
+				}
+
+				.ear-r {
+					bottom: 85px;
+					left: 110px;
+					transform: rotate(30deg);
+				}
+
+				.inner-l, .inner-r {
+					width: 0;
+					height: 0;
+					position: relative;
+					border-bottom: 50px solid #d36149;
+				}
+
+				.inner-l {
+					right: 25px;
+					border-left: 25px solid transparent;
+				}
+
+				.inner-r {
+					border-right: 25px solid transparent;
+				}
+
+				.eye-l, .eye-r {
+					width: 30px;
+					height: 30px;
+					border-radius: 50%;
+					position: relative;
+					box-shadow: 3px 3px 0 0 #8B4513;
+					transform: rotate(225deg);
+				}
+
+				.eye-l {
+					left: 35px;
+					bottom: 65px;
+				}
+
+				.eye-r {
+					left: 85px;
+					bottom: 95px;
+				}
+
+				.nose {
+					position: relative;
+					width: 0px;
+					height: 0px;
+					border-left: 6px solid transparent;
+					border-right: 6px solid transparent;
+					border-bottom: 8px solid #d36149;
+					transform: rotate(180deg);
+					bottom: 100px;
+					left: 70px;
+				}
+
+				.body {
+					width: 150px;
+					height: 125px;
+					border-radius: 0px 55px 0px 0px;
+					background-color: #33292b;
+					position: relative;
+					left: 25px;
+				}
+
+				.paw-l, .paw-r {
+					position: relative;
+					width: 30px;
+					height: 30px;
+				}
+			</style>
+			<div class="container">
+				<div class="cat">
+					<div class="head">
+						<div class="ear-l">
+							<div class="inner-l"></div>
+						</div>
+						<div class="ear-r">
+							<div class="inner-r"></div>
+						</div>
+						<div class="eye-l"></div>
+						<div class="eye-r"></div>
+						<div class="nose"></div>
+					</div>
+					<div class="body">
+						<div class="paw-l"></div>
+						<div class="paw-r"></div>
+						<div class="tail"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>

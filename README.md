@@ -1,23 +1,13 @@
-# Hi, I'm Kenny 👋
+# HOWDY
 
-I love learning and experimenting with technology across the entire stack (from
-making schematics and laying out PCBs to writing firmware or software to 
-deploying containers in the cloud).
+👋 Hey there! I'm Kenny, I love building things. My expertise is in DevOps,
+Software, and Systems engineering. I'm also a huge technical evangelist and a
+huge advocate for learning, teaching, and community.
 
-My other interests riding my bicycle or my motorcycle, playing video games, and
-hanging out with my cat!
-
-<!--
-**hkennyv/hkennyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
+		<img src="cat.svg" width="200" height="200" alt="css-cat">
+	</a>
+	<br>
+</div>
