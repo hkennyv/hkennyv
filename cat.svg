@@ -143,26 +143,34 @@
   left: 100px;
 }
 			</style>
-			<div class="container">
-				<div class="cat">
-					<div class="head">
-						<div class="ear-l">
-							<div class="inner-l"></div>
-						</div>
-						<div class="ear-r">
-							<div class="inner-r"></div>
-						</div>
-						<div class="eye-l"></div>
-						<div class="eye-r"></div>
-						<div class="nose"></div>
-					</div>
-					<div class="body">
-						<div class="paw-l"></div>
-						<div class="paw-r"></div>
-						<div class="tail"></div>
-					</div>
-				</div>
-			</div>
+      <div class="container">
+        <div class="cat">
+          <div class="head">
+            <div class="ear-l">
+              <div class="inner-l"></div>
+            </div>
+            <div class="ear-r">
+              <div class="inner-r"></div>
+            </div>
+            <div class="eye-l"></div>
+            <div class="eye-r"></div>
+            <div class="nose"></div>
+            <div class="whiskers-l">
+              <div class="whisker-1"></div>
+              <div class="whisker-2"></div>
+            </div>
+            <div class="whiskers-r">
+              <div class="whisker-1"></div>
+              <div class="whisker-2"></div>
+            </div>
+          </div>
+          <div class="body">
+            <div class="paw-l"></div>
+            <div class="paw-r"></div>
+            <div class="tail"></div>
+          </div>
+        </div>
+      </div>
 		</div>
 	</foreignObject>
 </svg>
