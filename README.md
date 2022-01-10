@@ -2,9 +2,7 @@
 
 👋 Hey there! I'm Kenny, I love building things and I spend way too much time on the computer.
 
-My expertise is in DevOps,
-Software, and Systems engineering. I'm also a huge technical evangelist and a
-huge advocate for learning, teaching, and community.
+I'm currently a Systems Development Engineer @ Amazon.
 
 <div align="center">
 	<br>
@@ -14,4 +12,7 @@ huge advocate for learning, teaching, and community.
 	<br>
 </div>
 
-please enjoy a lovely CSS cat inspired by my cat, winston (view the [codepen](https://codepen.io/hkennyv/pen/wvoOjLa) or for more info on how to include CSS in a README, click [here](https://github.com/sindresorhus/css-in-readme-like-wat/blob/main/explanation.md))
+please enjoy some CSS cat art of my cat, winston
+
+| [codepen](https://codepen.io/hkennyv/pen/wvoOjLa) | [how to put CSS in a README](https://github.com/sindresorhus/css-in-readme-like-wat/blob/main/explanation.md) |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
