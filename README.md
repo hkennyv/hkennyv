@@ -1,8 +1,6 @@
-# HOWDY
+# Hello
 
-👋 Hey there! I'm Kenny, I love building things and I spend way too much time on the computer.
-
-I'm currently a Systems Development Engineer @ Amazon.
+please enjoy some CSS cat art of my cat, winston
 
 <div align="center">
 	<br>
@@ -11,8 +9,3 @@ I'm currently a Systems Development Engineer @ Amazon.
 	</a>
 	<br>
 </div>
-
-please enjoy some CSS cat art of my cat, winston
-
-| [codepen](https://codepen.io/hkennyv/pen/wvoOjLa) | [how to put CSS in a README](https://github.com/sindresorhus/css-in-readme-like-wat/blob/main/explanation.md) |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
